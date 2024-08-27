@@ -2,7 +2,7 @@
 
 **LembreFácil** é um aplicativo projetado para ajudar idosos a organizar seus compromissos médicos e gerenciar lembretes de medicação. Desenvolvido por alunos do curso de Análise e Desenvolvimento de Sistemas (ADS) da FATEC Ferraz de Vasconcelos, o LembreFácil visa proporcionar uma vida mais organizada e tranquila para seus usuários.
 
-![Ícone do LembreFácil](https://github.com/LembreFacil/lembrefacil-website/blob/main/assets/0514770a-e71d-41ac-a34c-454ae2e5dd93.jfif)) <!-- Substitua com o caminho correto para o ícone SVG -->
+![Ícone do LembreFácil](https://github.com/LembreFacil/lembrefacil-website/blob/main/assets/0514770a-e71d-41ac-a34c-454ae2e5dd93.jfif) <!-- Substitua com o caminho correto para o ícone SVG -->
 
 ## Funcionalidades
 
