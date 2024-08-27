@@ -6,7 +6,7 @@
 
 ## Funcionalidades
 
-- **Organização de Compromissos Médicos**: Permite aos usuários adicionar, visualizar e gerenciar compromissos médicos de forma simples e eficiente.
+- **Organização de Compromissos Médicos**: Permite aos usuários visualizar e gerenciar compromissos médicos de forma simples e eficiente.
 - **Lembretes de Medicação**: Notificações programadas para lembrar os usuários de tomar seus medicamentos no horário certo.
 - **Interface Intuitiva**: Design acessível e fácil de usar, especialmente pensado para o público idoso.
 - **Histórico e Relatórios**: Acompanhamento do histórico de compromissos e medicações para consultas futuras.
