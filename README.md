@@ -13,10 +13,17 @@
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: [React Native](https://reactnative.dev/) para desenvolvimento de aplicativos móveis e HTML5, CSS3 e JavaScript para desenvolvimento da Landing Page.
-- **Backend**: [Node.js](https://nodejs.org/) com [Express.js](https://expressjs.com/) para gerenciamento de API.
-- **Banco de Dados**: [MongoDB](https://www.mongodb.com/) para armazenamento de dados.
-- **Notificações**: Integração com serviços de notificações push.
+- **Frontend**: [React Native](https://reactnative.dev/) para desenvolvimento de aplicativos móveis e [HTML5](https://www.w3schools.com/html/), [CSS3](https://www.w3schools.com/css/default.asp) e [JavaScript](https://www.w3schools.com/js/default.asp) para desenvolvimento da Landing Page.
+- **Backend**: 
+- **Banco de Dados**: 
+- **Notificações**: 
+
+## Contato e Redes Sociais
+
+- **Email**: 
+- **Linkedin**: 
+- **Instagram**: 
+- **Linktree**: 
 
 
 
