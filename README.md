@@ -13,7 +13,7 @@
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: [React Native](https://reactnative.dev/) para desenvolvimento de aplicativos móveis e [HTML5](https://www.w3schools.com/html/), [CSS3](https://www.w3schools.com/css/default.asp) e [JavaScript](https://www.w3schools.com/js/default.asp) para desenvolvimento da Landing Page.
+- **Frontend**: [React Native](https://reactnative.dev/) para desenvolvimento do aplicativo móvel e [HTML5](https://www.w3schools.com/html/), [CSS3](https://www.w3schools.com/css/default.asp) e [JavaScript](https://www.w3schools.com/js/default.asp) para desenvolvimento da Landing Page.
 - **Backend**: 
 - **Banco de Dados**: 
 - **Notificações**: Integração com serviços de notificações push.
