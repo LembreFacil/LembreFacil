@@ -16,16 +16,15 @@
 - **Frontend**: [React Native](https://reactnative.dev/) para desenvolvimento de aplicativos móveis e [HTML5](https://www.w3schools.com/html/), [CSS3](https://www.w3schools.com/css/default.asp) e [JavaScript](https://www.w3schools.com/js/default.asp) para desenvolvimento da Landing Page.
 - **Backend**: 
 - **Banco de Dados**: 
-- **Notificações**: Integração com serviços de notificações push. 
+- **Notificações**: Integração com serviços de notificações push.
 
 ## Contato e Redes Sociais
 
-- **Email**: 
-- **Linkedin**: 
-- **Instagram**: 
-- **Linktree**: 
+- **Email**: lembrefacil.org@gmail.com](mailto:lembrefacil.org@gmail.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lembrefácil)
+- **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lembrefacil)
+- **Linktree**: [![Linktree](https://img.shields.io/badge/Linktree-39C5BB?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/lembrefacil)
 
+---
 
-
-
-
+**LembreFácil** - Sua saúde, nossa missão, seu lembrete.
