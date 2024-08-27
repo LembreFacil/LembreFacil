@@ -20,7 +20,7 @@
 
 ## Contato e Redes Sociais
 
-- **Email**:  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@lembrefacil.com)(mailto:lembrefacil.org@gmail.com)
+- **Email**:  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@lembrefacil.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lembrefácil)
 - **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lembrefacil)
 - **Linktree**: [![Linktree](https://img.shields.io/badge/Linktree-39C5BB?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/lembrefacil)
